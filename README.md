@@ -1,7 +1,4 @@
 ## Irina Giosanu
-I've always been fascinated by everything that had any sort of movement like cars, trains, planes, clocks and watches, cassette player, even the Christmas lights. As a toddler I have successfully 
-
-
 
 I'm a full stack Ruby developer.
 
