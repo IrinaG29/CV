@@ -14,7 +14,6 @@ After finishing my intensive 4 month bootcamp I started my career as a software 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Depot**](https://github.com/IrinaG29/depot)| A webapp store.| Ruby on Rails, Active Record, SQLite3, Ajax, Javascript. Tested with TestCase. |
-
 | [**Acebook**](https://github.com/Will-Helliwell/acebook-on-the-rails) <br /> [Deployed] (https://acebook-on-the-rails.herokuapp.com/)| Facebook copy.| Ruby on Rails, PostgreSQL, tested with RSpec.|
 
 
